@@ -60,9 +60,22 @@ python linear_regression.py
 * The **Chi-Square Test** helps identify if electricity usage changes month-to-month, indicating seasonal or behavioral patterns.
 * The **Linear Regression** model shows how the bill amount depends on the units consumed, providing a simple way to predict bills based on consumption.
 
-## 🙌 Contributions & Feedback
+## Contributors
 
-Feel free to fork, open issues, or submit pull requests to improve this project! Your feedback is highly appreciated. ⭐
+This project is developed by a team of undergraduate students from the School of Computer Science and Artificial Intelligence:
 
+- K. AALOKHYA 
+- H. HEMANTH                                                                  
+- I. JEDSON                                                                          
+- K. JYOTHEENDRA DHEEKSHITH                                    
+- K. DHAMAN                                                                       
+- K. RAHUL
+
+## 📚 Academic Context
+
+- **Program:** B.Tech – Computer Science & Engineering  
+- **Subject:** Probability and Statistics
+- **Document Type:** Statistical Analysis Report
+- **Purpose:** Academic project focused on analyzing household electricity consumption patterns using statistical methods                                                                    
 *Thanks for checking out this project!*
 
