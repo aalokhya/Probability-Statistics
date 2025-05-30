@@ -34,7 +34,7 @@ This project analyzes the monthly electricity consumption and billing data of a 
 
 - `chi_square_test.py` — Python script to perform the Chi-Square test on the consumption data. 🧪
 - `linear_regression.py` — Python script to build and display the linear regression model. 📉
-- `Electricity_Bill_Data.docx` — Dataset containing monthly units consumed and bill amounts. 📄
+- `Documentation.pdf` — Analysis and project documentation. 📄
 
 ## 🚀 How to Run
 
